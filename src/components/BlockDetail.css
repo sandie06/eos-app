@@ -1,0 +1,12 @@
+.card {
+    background-color: rgb(101, 101, 101);
+}
+.title span {
+    margin: 10px;
+    display: block;
+    float: left;
+}
+
+.title .hash {
+    min-width: 600px;
+}
